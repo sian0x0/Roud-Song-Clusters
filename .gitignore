@@ -7,3 +7,4 @@ test_lyrics_joe.csv
 test_lyrics_joe.xlsx
 .vscode/launch.json
 .vscode/settings.json
+titlecase-test.py
