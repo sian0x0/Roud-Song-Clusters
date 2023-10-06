@@ -14,3 +14,5 @@ cohere_app.py
 tf-idf.ipynb
 embed_custom.p
 Roud-custom-instructor.ipynb
+membership_vectors_all.npy
+df_soft_cluster_all.p
