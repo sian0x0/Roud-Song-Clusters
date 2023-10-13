@@ -1,4 +1,4 @@
-# Folk Song Classification and Roud Index Number Prediction
+# Folk Song Lyric Clustering for Roud Index Number Prediction
 ## Background
 English-language folk songs can't be identified by name alone, their lyrics vary over space and time space and time, and influence each other's content. The Roud Folk Song Index number has become the standard for grouping together different versions of the same song. Steve Roud began indexing in the 1970s, and is still indexing as of 2023. 
 
